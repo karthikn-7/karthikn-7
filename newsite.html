@@ -5,7 +5,10 @@
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
   <title>Rk site</title>
   <style>
-  
+  *{
+    margin:0;
+    padding:0;
+  }
   body{
     background-image:url("choc.jpg");
     background-size:right;
@@ -50,7 +53,7 @@
     margin-top:20px;
   }
     .sechead{
-      flex:1;
+      flex
       text-align:left;
       font-size:45px;
       letter-spacing:10px;
@@ -83,6 +86,8 @@
     font-size:40px;
     height:10vh;
     text-decoration-style:double;
+    letter-spacing:10px;
+    padding-top:10%;
   }
   
   table{
@@ -93,17 +98,78 @@
   .tab1{
     color:blue;
   }
-    .candimg{
-      width:100vw;
-      height:100vh;
-    }
-
+  .imagecont{
+    position:relative;
+    cursor:pointer;
+   
+    
+  }
+  .candyimage{
+   width:90%;
+    margin-top:50px;
+    margin-left:30px;
+    position:absolute;
+    top:-43px;
+    left:0;
+    
+    border:3px solid;
+    opacity:0;
+    transition: opacity 3s;
+  }
+  .textreveal{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:50px;
+    color:blue;
+    z-index:1
+  }
+  .imagecont:hover .candyimage{
+    opacity:1.9;
+  }
+.footcont{
+  height:20vh;
+  width:100%;
+  position:static;
+  margin-top:800px;
+  border:2px solid;
+  
+    background: linear-gradient(45deg, #ff9900, #ff66cc);
+}
+  .mail{
+    font-size:50px;
+    padding-left:20px;
+    position:relative;
+    margin-left:20px;
+    
+  }
+  .contact{
+    
+    font-size:50px;
+    padding-left:20px;
+    position:relative;
+    margin-left:60px;
+    
+  }
+  .instagram{
+    font-size:50px;
+    position:relative;
+    margin-left:80px;
+  }
+  .footclass{
+    font-size:40px;
+    padding:10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color:#336699;
+    line-height:1.5;
+    letter-spacing:1px;
+    -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  }
   
   </style>
 </head>
 <body>
-  
-  
   
   
   <div class="head">
@@ -123,9 +189,21 @@
     whenever i felt sad. I used to call them. They will heal my all sad and sorrow. thats why they are in my top.I dont leave them until my death come. This is not like ordinary candies. This candy last forever..
   </p>
     
-  <h2 class="head2">Candy pictures</h2>
-    <img class="candimg" src="IMG-20230728-WA0010.jpg" alt="candyimage">
+  <h2 class="head2">Candy picture:</h2>
+    <div class="imagecont">
+      <p class="textreveal">Touch here to see candy dear.</p>
+    <img class="candyimage" src="IMG-20230728-WA0010.jpg" alt="candyphoto">
+  </div>
     
+    <footer>
+      
+      <div class="footcont">
+        <p class="footclass">To Contact Candy</p>
+        <a class="mail" href="mailto:sandycandymandy101@Gmail.com">Send Email</a>
+        <a class="contact" href="tel:+919003038734">Contact</a>
+        <a class="instagram" href="https://instagram.com/sandymass14?igshid=OGQ5ZDc2ODk2ZA==">Instagram</a>
+      </div>
+    </footer>
     
     
 
