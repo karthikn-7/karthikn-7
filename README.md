@@ -22,7 +22,7 @@
 
 - Email: karthikkat7777@gmail.com
 - LinkedIn: [Karthikeyan](https://www.linkedin.com/in/karthikeyan-m-89a582298)
-- Twitter: [@kaken7707]([https://twitter.com/your_twitter](https://https://x.com/kaken7707))
+- Twitter: [kaken7707]([[https://twitter.com/your_twitter](https://https://x.com/kaken7707)](https://x.com/kaken7707))
 
 ---
 
@@ -30,7 +30,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikn-7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-m-89a582298)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://https://x.com/kaken7707)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://https://x.com/kaken7707](https://x.com/kaken7707))
 
 ---
 
