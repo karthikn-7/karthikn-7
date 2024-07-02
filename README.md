@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Karthikeyan!
 
-👨‍💻 I'm interested in software development and web development.
-🌱 I'm currently learning data structures and algorithms.
+👨‍💻 I'm interested in full stack development and web development.
+🌱 I'm currently learning and creating restfull APIs with Flask framework and integrating with frontend applications.
 🔧 I enjoy writing clean and efficient code daily.
 
 ---
@@ -17,19 +17,12 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Karthikeyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikn-7&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikn-7&layout=compact&theme=radical)
-
----
 
 ### 📫 How to reach me
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your_twitter](https://twitter.com/your_twitter)
+- Email: karthikkat7777@gmail.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/karthikeyan-m-89a582298)
+- Twitter: [@your_twitter]([https://twitter.com/your_twitter](https://https://x.com/kaken7707))
 
 ---
 
@@ -37,7 +30,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikn-7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-m-89a582298)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://[twitter.com/your_twitter](https://x.com/kaken7707))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://https://x.com/kaken7707)
 
 ---
 
