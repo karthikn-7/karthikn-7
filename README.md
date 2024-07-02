@@ -21,8 +21,8 @@
 ### 📫 How to reach me
 
 - Email: karthikkat7777@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/karthikeyan-m-89a582298)
-- Twitter: [@your_twitter]([https://twitter.com/your_twitter](https://https://x.com/kaken7707))
+- LinkedIn: [Karthikeyan](https://www.linkedin.com/in/karthikeyan-m-89a582298)
+- Twitter: [@kaken7707]([https://twitter.com/your_twitter](https://https://x.com/kaken7707))
 
 ---
 
