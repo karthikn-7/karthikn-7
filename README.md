@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Karthikeyan!
 
 👨‍💻 I'm interested in full stack development and web development.
-🌱 I'm currently learning and creating restfull APIs with Flask framework and integrating with frontend applications.
-🔧 I enjoy writing clean and efficient code daily.
+🌱 I'm currently learning DSAs.
+🔧 Love to code.
 
 ---
 
