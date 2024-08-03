@@ -39,9 +39,3 @@
 - Contribution to open source projects
 - Building and maintaining full stack applications
 - Continuous learning and improvement in software development skills
-
----
-
-### 📅 GitHub Activity
-
-[![Karthikeyan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=karthikn-7&theme=react-dark)](https://github.com/karthikn-7)
